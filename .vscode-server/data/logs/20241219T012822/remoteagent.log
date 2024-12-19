@@ -1,0 +1,24 @@
+2024-12-19 01:28:22.534 [info] 
+
+
+
+
+2024-12-19 01:28:22.543 [info] Extension host agent started.
+2024-12-19 01:28:22.589 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2024-12-19 01:28:22.601 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2024-12-19 01:28:22.665 [info] [127.0.0.1][25c69aae][ManagementConnection] New connection established.
+2024-12-19 01:28:22.840 [info] [127.0.0.1][a8d5502d][ExtensionHostConnection] New connection established.
+2024-12-19 01:28:22.848 [info] [127.0.0.1][a8d5502d][ExtensionHostConnection] <150> Launched Extension Host Process.
+2024-12-19 01:28:50.664 [info] [127.0.0.1][25c69aae][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-19 01:28:50.696 [info] [127.0.0.1][a8d5502d][ExtensionHostConnection] <150> Extension Host Process exited with code: 0, signal: null.
+2024-12-19 01:28:52.228 [info] [127.0.0.1][9724f82a][ManagementConnection] New connection established.
+2024-12-19 01:28:52.448 [info] [127.0.0.1][d4d28899][ExtensionHostConnection] New connection established.
+2024-12-19 01:28:52.472 [info] [127.0.0.1][d4d28899][ExtensionHostConnection] <239> Launched Extension Host Process.
+2024-12-19 01:59:47.942 [info] [127.0.0.1][d4d28899][ExtensionHostConnection] The client has reconnected.
+2024-12-19 01:59:48.066 [info] [127.0.0.1][9724f82a][ManagementConnection] The client has reconnected.
+2024-12-19 02:07:57.110 [info] [127.0.0.1][9724f82a][ManagementConnection] The client has reconnected.
+2024-12-19 02:07:57.111 [info] [127.0.0.1][d4d28899][ExtensionHostConnection] The client has reconnected.
+2024-12-19 02:08:54.707 [info] [127.0.0.1][d4d28899][ExtensionHostConnection] The client has reconnected.
+2024-12-19 02:08:54.847 [info] [127.0.0.1][9724f82a][ManagementConnection] The client has reconnected.
+2024-12-19 02:16:05.601 [info] [127.0.0.1][9724f82a][ManagementConnection] The client has reconnected.
+2024-12-19 02:16:05.727 [info] [127.0.0.1][d4d28899][ExtensionHostConnection] The client has reconnected.
